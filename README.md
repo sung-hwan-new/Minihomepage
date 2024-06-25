@@ -1,6 +1,6 @@
 # 성환뉴의 미니 홈페이지
 
-~~# 자기소개~~
+# ~~자기소개~~
 
 [깃허브](https://github.com/sung-hwan-new/Minihomepage/blob/main/README.md)
 ![깃허브 로고](https://velog.velcdn.com/images/persestitan/post/5ef6f63a-c279-465d-b65d-97ff39848f6c/image.jpeg)
