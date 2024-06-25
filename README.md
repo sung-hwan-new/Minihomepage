@@ -2,6 +2,10 @@
 
 깃허브에서 코드를 수정했어요.
 
+## 스타일 구성
+- style.md 추가
+
+
 # ~~자기소개~~
 
 [깃허브](https://github.com/sung-hwan-new/Minihomepage/blob/main/README.md)
